@@ -8,7 +8,10 @@ https://4q2fgc-luka0foy.shinyapps.io/interactivesuicideplots/?_ga=2.235376518.66
 
 Or, if you want to jump straight into it, you can download our R package containing all our wrangled datasets via:
 library(devtools)
+
 install_github('popsnot/suicidedata')
+
 library(suicidedata)
+
 
 Feel free to flick me an email :: lukafoy2@gmail.com if you have any questions.
