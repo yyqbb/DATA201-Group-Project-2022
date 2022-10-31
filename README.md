@@ -15,5 +15,6 @@ install_github('popsnot/suicidedata')
 
 library(suicidedata)
 
+Or, if you're more comfortable with CSVs - all the data is contained within the 'CSV Data' folder for free download
 
 Feel free to flick me an email :: lukafoy2@gmail.com if you have any questions or want to contribute.
